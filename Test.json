@@ -1,16 +1,11 @@
 {
-    "80651115": {
-        "Reason": "Desync FFlag [Type 2]",
-        "Date": "May 12, 2025",
-        "Username": "0owah"
-    },
     "629847900": {
         "Reason": "Desync FFlag [Type 2]",
         "Date": "May 12, 2025",
         "Username": "David"
     },
     "2709954257": {
-        "Reason": "CBring [Type 5]",
+        "Reason": "Character Tampering [Type 2]",
         "Date": "May 12, 2025",
         "Username": "FTR_bei"
     },
@@ -18,10 +13,5 @@
         "Reason": "Firetouchinterest [Type 1]",
         "Date": "May 12, 2025",
         "Username": "Wadeeeey"
-    },
-    "2709954257": {
-        "Reason": "Character Tampering [Type 2]",
-        "Date": "May 12, 2025",
-        "Username": "FTR_bei"
     }
 }
