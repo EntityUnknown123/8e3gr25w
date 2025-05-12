@@ -418,5 +418,10 @@
         "Reason": "Unknown Instance [Type 1] | Handle Tampering [Type 1]",
         "Date": "May 12, 2025",
         "Username": "accadam"
+    },
+    "23775302": {
+        "Reason": "Hookmetamethod [Type 13]",
+        "Date": "May 12, 2025",
+        "Username": "wetdribbler"
     }
 }
