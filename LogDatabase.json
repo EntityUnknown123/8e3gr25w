@@ -373,5 +373,10 @@
         "Reason": "Handle Tampering [Type 1]",
         "Date": "May 12, 2025",
         "Username": "Red_Weasel"
+    },
+    "498862751": {
+        "Reason": "Exploit Error [Type 2]",
+        "Date": "May 12, 2025",
+        "Username": "stuxra"
     }
 }
