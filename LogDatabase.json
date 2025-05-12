@@ -178,5 +178,10 @@
         "Reason": "Signal Tampering [Type 1] | Firetouchinterest [Type 3]",
         "Date": "May 12, 2025",
         "Username": "spoovk"
+    },
+    "2024739830": {
+        "Reason": "Exploit Injection [Type 12]",
+        "Date": "May 12, 2025",
+        "Username": "Ziurys"
     }
 }
