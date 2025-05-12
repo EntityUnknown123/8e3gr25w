@@ -218,5 +218,10 @@
         "Reason": "Unknown Instance [Type 2] | Unknown Instance [Type 1] | Handle Tampering [Type 1]",
         "Date": "May 12, 2025",
         "Username": "brxxkn_h4rt"
+    },
+    "7697990114": {
+        "Reason": "Hookmetamethod [Type 13]",
+        "Date": "May 12, 2025",
+        "Username": "syncng"
     }
 }
