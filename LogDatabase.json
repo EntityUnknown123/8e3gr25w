@@ -18,5 +18,10 @@
         "Reason": "External Exploit [Type 1]",
         "Date": "May 12, 2025",
         "Username": "evilwarrior83"
+    },
+    "521515193": {
+        "Reason": "Hookmetamethod [Type 13]",
+        "Date": "May 12, 2025",
+        "Username": "MiningMission"
     }
 }
