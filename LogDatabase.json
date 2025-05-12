@@ -573,5 +573,10 @@
         "Reason": "Handle Tampering [Type 1]",
         "Date": "May 12, 2025",
         "Username": "Eryphius"
+    },
+    "376928145": {
+        "Reason": "Hookmetamethod [Type 13]",
+        "Date": "May 12, 2025",
+        "Username": "ilyqio"
     }
 }
