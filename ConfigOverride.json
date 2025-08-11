@@ -2,5 +2,7 @@
 "Tank": "8",
 "Firetouchinterest": "4",
 "Joint Modifying": "1",
-"Desync FFlag": "2"
+"Desync FFlag": "2",
+"Tank FFlag": "1",
+"Reverse Desync FFlag": "1"
 }
